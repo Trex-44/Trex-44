@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Trex-44 alias Olesno
-- 👀 I’m interested in video-games
-- 📫 How to reach me ? Add me on discord : olesno
+Olesno - "La capote de l'info" Founder
+    - 🔗 Link on my profil
+
+🥐French developer
 
 <!---
 Trex-44/Trex-44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
