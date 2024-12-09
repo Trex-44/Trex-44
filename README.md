@@ -1,5 +1,4 @@
-Olesno - "La capote de l'info" Founder
-    - 🔗 Link on my profil
+Founder of "La capote de l'info" - 🔗 Link on my profil
 
 🥐French developer
 
